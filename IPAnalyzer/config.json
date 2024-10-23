@@ -1,0 +1,8 @@
+﻿{
+  "LOG_FILE_PATH": "log.txt",
+  "OUTPUT_FILE_PATH": "output.txt",
+  "IP_RANGE_START": "192.168.1.20",
+  "IP_RANGE_END": "192.168.1.100",
+  "START_TIME": "2024-10-22 00:00:00",
+  "END_TIME": "2024-10-23 23:59:59"
+}
